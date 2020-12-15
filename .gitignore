@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+
+*.iml
+.idea/
+.vscode/
+
+/node_modules/
+/db.json
+public
